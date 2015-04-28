@@ -1,0 +1,23 @@
+<h1>Listing imdbs</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @imdbs.each do |imdb| %>
+      <tr>
+        <td><%= link_to 'Show', imdb %></td>
+        <td><%= link_to 'Edit', edit_imdb_path(imdb) %></td>
+        <td><%= link_to 'Destroy', imdb, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Imdb', new_imdb_path %>
