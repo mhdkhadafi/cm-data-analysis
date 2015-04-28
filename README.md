@@ -19,4 +19,4 @@ The content of this folder is a Ruby on Rails app, designed to scrape the IMDb r
 
 Twitter Strem Grabber
 -------
-The content of this folder is Pythin Script, designed to receive Twitter streaming for these specific 10 movies
+The content of this folder is Python Script, designed to receive Twitter streaming for these specific 10 movies
