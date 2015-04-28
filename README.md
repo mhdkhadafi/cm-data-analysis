@@ -9,9 +9,9 @@ They are: Paul Blart: Mall Cop 2, Unfriended, Child 44, Monkey Kingdom, True Sto
 Data Processing
 -------
 The content of this folder is the finished run of both iPython Notebook file contained inside
-If running from scratch, please run 'Process Tweet Data.ipynb' then 'Plot Graphs.ipynb'.
+If running from scratch, please run 'IntroCM Assignment 3 - Dafi, Xiaoyang.ipynb.ipynb'.
 The only files necessary for it to run is 'movie_tweet.txt' and 'imdb_data' folder. The rest are resultant data
-The final result os stored at the 'plots' folder
+The final result are stored at the 'plots' folder
 
 IMDb Scraper
 -------
