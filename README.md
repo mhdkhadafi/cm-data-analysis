@@ -1,6 +1,6 @@
 # Intro to Connective Media - Assignment 3
+Muhammad Khadafi & Xiaoyang Ma
 Data Analysis
-Dafi & Xiaoyang
 ---------
 Taking opening weekend IMDb ratings data to compare to public sentiments from Twitter
 Movies taken into consideration are movies that opened on weekend starting at 17 April
